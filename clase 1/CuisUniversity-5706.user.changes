@@ -1,0 +1,406 @@
+
+
+----QUIT----(20 March 2023 11:15:29) CuisUniversity-5706.image priorSource: 4313282!
+
+----STARTUP---- (20 March 2023 11:15:29) as /Users/hernan/Documents/Cuis/5.0-64Bits/Cuis-University-Installer/CuisUniversity-5706.image!
+
+
+----QUIT----(20 March 2023 11:15:30) CuisUniversity-5706.image priorSource: 8712809!
+
+----STARTUP---- (22 March 2023 21:35:37) as C:\Users\Sofi\Desktop\is1\windows64\windows64\CuisUniversity-5706.image!
+
+
+ObjectBuilder create: #firstObject asChildOf: DenotativeObject collaboratorNames: '' in: 'DenotativeObject-Morph'!
+
+!classDefinition: #firstObject category: 'DenotativeObject-Morph' stamp: 'sg 3/22/2023 21:41:03'!
+DenotativeObject subclass: #firstObject
+	instanceVariableNames: ''
+	classVariableNames: ''
+	poolDictionaries: ''
+	category: 'DenotativeObject-Morph'!
+
+!classDefinition: 'firstObject class' category: 'DenotativeObject-Morph' stamp: 'sg 3/22/2023 21:41:03'!
+firstObject class
+	instanceVariableNames: ''!
+
+ObjectBuilder create: #objetoNuevo asChildOf: DenotativeObject collaboratorNames: '' in: 'miCategoria'!
+
+!classDefinition: #objetoNuevo category: 'miCategoria' stamp: 'sg 3/22/2023 21:41:38'!
+DenotativeObject subclass: #objetoNuevo
+	instanceVariableNames: ''
+	classVariableNames: ''
+	poolDictionaries: ''
+	category: 'miCategoria'!
+
+!classDefinition: 'objetoNuevo class' category: 'miCategoria' stamp: 'sg 3/22/2023 21:41:38'!
+objetoNuevo class
+	instanceVariableNames: ''!
+
+objetoNuevo hola
+!
+!objetoNuevo class methodsFor: 'miCategoria' stamp: 'sg 3/22/2023 21:42:55'!
+hola
+	self shouldBeImplemented.! !
+!objetoNuevo class methodsFor: 'miCategoria' stamp: 'sg 3/22/2023 21:43:39' prior: 50603971!
+hola
+	| chau |
+	^chau! !
+
+objetoNuevo hola
+!
+!objetoNuevo class methodsFor: 'miCategoria' stamp: 'sg 3/22/2023 21:44:35' prior: 50603975!
+hola
+	
+	self chau
+	^self
+	! !
+
+objetoNuevo hola
+!
+!objetoNuevo class methodsFor: 'miCategoria' stamp: 'sg 3/22/2023 21:54:55' prior: 50603980!
+hola
+
+ 	^'chau'
+	! !
+
+objetoNuevo hola!
+!objetoNuevo class methodsFor: 'miCategoria' stamp: 'sg 3/22/2023 21:55:42' prior: 50603985!
+hola
+
+ 	^ 'chau'
+	! !
+
+objetoNuevo hola
+!
+
+self objetoNuevo!
+
+objetoNuevo hola!
+
+objetoNuevo hola!
+!objetoNuevo class methodsFor: 'miCategoria' stamp: 'sg 3/22/2023 21:59:40' prior: 50603990!
+hola
+	self hola
+ 	^ 'chau'
+	! !
+
+self hola!
+
+self hola!
+!objetoNuevo class methodsFor: 'miCategoria' stamp: 'sg 3/22/2023 22:00:16' prior: 50603996!
+hola
+
+ 	^ 'chau'
+	! !
+
+ObjectBuilder create: #Bill asChildOf: DenotativeObject collaboratorNames: '' in: 'Ej2'!
+
+!classDefinition: #Bill category: 'Ej2' stamp: 'sg 3/22/2023 22:04:26'!
+DenotativeObject subclass: #Bill
+	instanceVariableNames: ''
+	classVariableNames: ''
+	poolDictionaries: ''
+	category: 'Ej2'!
+
+!classDefinition: 'Bill class' category: 'Ej2' stamp: 'sg 3/22/2023 22:04:26'!
+Bill class
+	instanceVariableNames: ''!
+
+Bill energia!
+!Bill class methodsFor: 'Ej2' stamp: 'sg 3/22/2023 22:06:00'!
+energia
+	self shouldBeImplemented.! !
+!Bill class methodsFor: 'Ej2' stamp: 'sg 3/22/2023 22:06:46' prior: 50604017!
+energia
+	^28! !
+
+Bill energia!
+
+Bill comer!
+!Bill class methodsFor: 'Ej2' stamp: 'sg 3/22/2023 22:12:57'!
+comer
+	self shouldBeImplemented.! !
+
+Bill comer!
+
+!classDefinition: 'Bill class' category: 'Ej2' stamp: 'sg 3/22/2023 22:31:06'!
+Bill class
+	instanceVariableNames: 'energy'!
+!Bill class methodsFor: 'Ej2' stamp: 'sg 3/22/2023 22:30:52' prior: 50604021!
+energia
+	^energy! !
+
+Bill energia!
+
+----STARTUP---- (23 March 2023 15:46:44) as C:\Users\Sofi\Desktop\is1\windows64\windows64\CuisUniversity-5706.image!
+
+
+ObjectBuilder create: #Bill asChildOf: DenotativeObject collaboratorNames: '' in: 'Ej2'!
+
+!classDefinition: #Bill category: 'Ej2' stamp: 'sg 3/23/2023 15:48:58'!
+DenotativeObject subclass: #Bill
+	instanceVariableNames: ''
+	classVariableNames: ''
+	poolDictionaries: ''
+	category: 'Ej2'!
+
+!classDefinition: 'Bill class' category: 'Ej2' stamp: 'sg 3/23/2023 15:48:58'!
+Bill class
+	instanceVariableNames: ''!
+
+Bill energia!
+!Bill class methodsFor: 'Ej2' stamp: 'sg 3/23/2023 20:10:15'!
+energia
+	self shouldBeImplemented.! !
+
+Bill energia!
+!Bill class methodsFor: 'Ej2' stamp: 'sg 3/23/2023 20:16:10' prior: 50604053!
+energia
+	^28! !
+
+----End fileIn of C:\Users\Sofi\Desktop\is1\windows64\windows64\Packages\TerseGuide.pck.st----!
+
+ObjectBuilder create: #vvv asChildOf: DenotativeObject collaboratorNames: '' in: 'sd'!
+
+!classDefinition: #vvv category: 'sd' stamp: 'sg 3/23/2023 20:34:04'!
+DenotativeObject subclass: #vvv
+	instanceVariableNames: ''
+	classVariableNames: ''
+	poolDictionaries: ''
+	category: 'sd'!
+
+!classDefinition: 'vvv class' category: 'sd' stamp: 'sg 3/23/2023 20:34:04'!
+vvv class
+	instanceVariableNames: ''!
+
+!classRemoval: #vvv stamp: 'sg 3/23/2023 20:34:12'!
+DenotativeObject subclass: #vvv
+	instanceVariableNames: ''
+	classVariableNames: ''
+	poolDictionaries: ''
+	category: 'sd'!
+
+!classRemoval: #Bill stamp: 'sg 3/23/2023 20:34:23'!
+DenotativeObject subclass: #Bill
+	instanceVariableNames: ''
+	classVariableNames: ''
+	poolDictionaries: ''
+	category: 'Ej2'!
+
+ObjectBuilder create: #BooleanoTest
+	collaboratorNames: ''
+	in: 'EjercicioBooleano'
+	!
+
+!classDefinition: #BooleanoTest category: 'EjercicioBooleano' stamp: 'sg 3/23/2023 20:36:03'!
+DenotativeObject subclass: #BooleanoTest
+	instanceVariableNames: ''
+	classVariableNames: ''
+	poolDictionaries: ''
+	category: 'EjercicioBooleano'!
+
+!classDefinition: 'BooleanoTest class' category: 'EjercicioBooleano' stamp: 'sg 3/23/2023 20:36:03'!
+BooleanoTest class
+	instanceVariableNames: ''!
+
+!classDefinition: #Falso category: 'EjercicioBooleano' stamp: 'sg 3/23/2023 20:43:30'!
+DenotativeObject subclass: #Falso
+	instanceVariableNames: ''
+	classVariableNames: ''
+	poolDictionaries: ''
+	category: 'EjercicioBooleano'!
+
+!classDefinition: #Verdadero category: 'EjercicioBooleano' stamp: 'sg 3/23/2023 20:43:34'!
+DenotativeObject subclass: #Verdadero
+	instanceVariableNames: ''
+	classVariableNames: ''
+	poolDictionaries: ''
+	category: 'EjercicioBooleano'!
+!BooleanoTest class methodsFor: 'no messages' stamp: 'sg 3/23/2023 20:43:19'!
+test01FalsoNegadoDevuelveVerdadero
+
+	Assert that: Falso no isEqualTo: Verdadero! !
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'sg 3/23/2023 20:43:53'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'sg 3/23/2023 20:43:53'!
+ERROR!
+!Falso class methodsFor: 'EjercicioBooleano' stamp: 'sg 3/23/2023 20:45:46'!
+no
+	self shouldBeImplemented.! !
+!Falso class methodsFor: 'EjercicioBooleano' stamp: 'sg 3/23/2023 20:46:05' prior: 50607045!
+no
+	^Verdadero! !
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'sg 3/23/2023 20:46:07'!
+PASSED!
+!BooleanoTest class methodsFor: 'nil' stamp: 'sg 3/23/2023 20:47:27'!
+test02VerdaderoNegadoDevuelveFalso
+
+	Assert that: Verdadero no isEqualTo: Falso! !
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'sg 3/23/2023 20:47:57'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'sg 3/23/2023 20:47:57'!
+ERROR!
+!Verdadero class methodsFor: 'EjercicioBooleano' stamp: 'sg 3/23/2023 20:48:46'!
+no
+	self shouldBeImplemented.! !
+!Verdadero class methodsFor: 'EjercicioBooleano' stamp: 'sg 3/23/2023 20:49:10' prior: 50607066!
+no
+	^Falso! !
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'sg 3/23/2023 20:49:12'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'sg 3/23/2023 20:49:22'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'sg 3/23/2023 20:49:22'!
+PASSED!
+!BooleanoTest class methodsFor: 'nil' stamp: 'sg 3/23/2023 20:58:22'!
+test03VerdaderoyFalsoDevuelveFalso
+	Assert that: (Verdadero y: Falso) isEqualTo: Falso! !
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'sg 3/23/2023 20:58:39'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'sg 3/23/2023 20:58:39'!
+ERROR!
+!Verdadero class methodsFor: 'EjercicioBooleano' stamp: 'sg 3/23/2023 20:58:44'!
+y: Falso 
+	self shouldBeImplemented.! !
+!Verdadero class methodsFor: 'EjercicioBooleano' stamp: 'sg 3/23/2023 20:59:27' prior: 50607095!
+y: Falso 
+	^Falso! !
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'sg 3/23/2023 20:59:34'!
+PASSED!
+!BooleanoTest class methodsFor: 'nil' stamp: 'sg 3/23/2023 21:03:54'!
+test03FalsoyFalsoDevuelveFalso
+	Assert that: (Falso y: Falso) isEqualTo: Falso! !
+!BooleanoTest class methodsFor: 'as yet unclassified' stamp: 'sg 3/23/2023 21:04:05'!
+test04FalsoyFalsoDevuelveFalso
+	Assert that: (Falso y: Falso) isEqualTo: Falso! !
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'sg 3/23/2023 21:04:11'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'sg 3/23/2023 21:04:11'!
+ERROR!
+!Falso class methodsFor: 'EjercicioBooleano' stamp: 'sg 3/23/2023 21:04:14'!
+y: Falso 
+	self shouldBeImplemented.! !
+!Falso class methodsFor: 'EjercicioBooleano' stamp: 'sg 3/23/2023 21:04:30' prior: 50607123!
+y: Falso 
+	^Falso! !
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'sg 3/23/2023 21:04:31'!
+PASSED!
+!BooleanoTest class methodsFor: 'nil' stamp: 'sg 3/23/2023 21:06:47'!
+test05VerdaderoyVerdaderoDevuelveVerdadero
+	Assert that: (Verdadero y: Verdadero) isEqualTo: Verdadero! !
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'sg 3/23/2023 21:06:52'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'sg 3/23/2023 21:07:48'!
+PASSED!
+!BooleanoTest class methodsFor: 'as yet unclassified' stamp: 'sg 3/23/2023 21:08:58'!
+test06FalsoyVerdaderoDevuelveFalso
+	Assert that: (Falso y: Verdadero) isEqualTo: Falso! !
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'sg 3/23/2023 21:09:02'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'sg 3/23/2023 21:09:02'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'sg 3/23/2023 21:09:44'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'sg 3/23/2023 21:09:44'!
+ERROR!
+!Verdadero class methodsFor: 'EjercicioBooleano' stamp: 'sg 3/23/2023 21:12:56' prior: 50607100!
+y: Verdadero
+	^Verdadero! !
+
+a := OrderedCollection new!
+
+a add: 1!
+
+a  !
+
+b := [a add:2. a first].!
+!Verdadero class methodsFor: 'EjercicioBooleano' stamp: 'sg 3/23/2023 21:37:55' prior: 50607164!
+y: Falso
+	^Falso! !
+!Verdadero class methodsFor: 'EjercicioBooleano' stamp: 'sg 3/23/2023 21:40:57' prior: 50607171!
+y: unBooleano
+	^unBooleano! !
+!Falso class methodsFor: 'EjercicioBooleano' stamp: 'sg 3/23/2023 21:41:30' prior: 50607128!
+y: unBooleano 
+	^self! !
+
+----STARTUP---- (24 March 2023 18:41:26) as C:\Users\Sofi\Desktop\is1\windows64\windows64\CuisUniversity-5706.image!
+
+
+ObjectBuilder create: #Bill
+	collaboratorNames: 'energy'
+	in: 'Zombies'
+	!
+
+!classDefinition: #Bill category: 'Zombies' stamp: 'sg 3/24/2023 18:42:20'!
+DenotativeObject subclass: #Bill
+	instanceVariableNames: ''
+	classVariableNames: ''
+	poolDictionaries: ''
+	category: 'Zombies'!
+
+!classDefinition: 'Bill class' category: 'Zombies' stamp: 'sg 3/24/2023 18:42:20'!
+Bill class
+	instanceVariableNames: 'energy'!
+!Bill class methodsFor: 'no messages' stamp: 'sg 3/24/2023 18:43:04'!
+energia
+	^energy! !
+
+Bill energia!
+!Bill class methodsFor: 'as yet unclassified' stamp: 'sg 3/24/2023 18:45:52'!
+caminar: unaCantidadDeKilometros
+	energy := energy - 3 - unaCantidadDeKilometros! !
+!Bill class methodsFor: 'nil' stamp: 'sg 3/24/2023 18:47:12'!
+comer: unaCantidadDeKilosDeCerebro
+energy := energy + (unaCantidadDeKilosDeCerebro  * 4)! !
+
+ObjectBuilder create: #miPrimerObjeto
+	collaboratorNames: ''
+	in: 'Ej1'
+	!
+
+!classDefinition: #miPrimerObjeto category: 'Ej1' stamp: 'sg 3/24/2023 18:48:04'!
+DenotativeObject subclass: #miPrimerObjeto
+	instanceVariableNames: ''
+	classVariableNames: ''
+	poolDictionaries: ''
+	category: 'Ej1'!
+
+!classDefinition: 'miPrimerObjeto class' category: 'Ej1' stamp: 'sg 3/24/2023 18:48:04'!
+miPrimerObjeto class
+	instanceVariableNames: ''!
+!miPrimerObjeto class methodsFor: 'no messages' stamp: 'sg 3/24/2023 18:48:23'!
+hola
+	^'chau'! !
+
+Bill caminar: 0!
+
+Bill caminar: 0!
+
+energy!
+
+Bill caminar: 0!
+
+Bill comer: 1!
+
+----SNAPSHOT----(24 March 2023 20:08:19) CuisUniversity-5706.image priorSource: 8713034!
